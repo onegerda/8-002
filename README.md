@@ -11,6 +11,10 @@
 Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+![Скриншот-1](https://github.com/netology-code/p8-2/blob/main/img/1.png)
+![Скриншот-2](https://github.com/netology-code/p8-2/blob/main/img/2.png)
+![Скриншот-3](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)
+
 ---
 
 ### Задание 2
