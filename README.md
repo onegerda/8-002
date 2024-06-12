@@ -40,4 +40,8 @@
 Загрузите файл в репозиторий с помощью jenkins.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+![Скриншот-6](https://github.com/onegerda/p8-2/blob/main/1-2.png)
+![Скриншот-7](https://github.com/onegerda/p8-2/blob/main/2-2.png)
+![Скриншот-8](https://github.com/onegerda/p8-2/blob/main/3-2.png)
+
 ---
